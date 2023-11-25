@@ -1,0 +1,1 @@
+Go practice stuff organized as tests
