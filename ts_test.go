@@ -53,6 +53,7 @@ func check(nums []int, toCheck int, target int, toCheckPos int, rc chan []int) {
 			default:
 			}
 			break
+
 		}
 
 		newSlice := nums[iteratedPos+1:]
